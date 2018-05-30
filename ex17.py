@@ -3,6 +3,7 @@ from os.path import exists
 
 script, from_file, to_file = argv
 
+
 print "Coping from %s to %s" % (from_file, to_file)
 
 in_file = open(from_file)
