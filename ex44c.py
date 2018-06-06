@@ -10,5 +10,6 @@ class Child(Parent):
 
 dad = Parent()
 son = Child()
+
 dad.altered()
 son.altered()	
