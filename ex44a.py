@@ -4,7 +4,6 @@ class Parent(object):
 
 class Child(Parent):
 	pass
-
 dad = Parent()
 son = Child()
 
